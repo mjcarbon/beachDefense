@@ -2148,3 +2148,580 @@ Landscape_WaterBrushManager
 [2021.06.23-03.49.58:797][521]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.422ms to complete.
 [2021.06.23-03.51.10:295][734]LogSlate: Window 'Message Log' being destroyed
 [2021.06.23-03.51.10:298][734]LogSlate: Window 'Message Log' being destroyed
+[2021.06.23-03.57.53:478][572]AssetReimport: New page: Outstanding source content changes 1:57:53 PM
+[2021.06.23-03.57.53:480][572]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/61-low_poly_tree/low_poly_tree/Lowpoly_tree_sample.fbx)
+[2021.06.23-03.57.53:507][572]LogFbx: Loading FBX Scene from C:/Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/61-low_poly_tree/low_poly_tree/Lowpoly_tree_sample.fbx
+[2021.06.23-03.57.53:516][572]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.23-03.57.55:786][572]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.06.23-03.57.55:810][572]LogFbx: Triangulating skeletal mesh Tree_lp_11
+[2021.06.23-03.57.55:839][572]LogSkeletalMesh: Section 0: Material=0, 500 triangles
+[2021.06.23-03.57.55:841][572]LogSkeletalMesh: Building Skeletal Mesh Lowpoly_tree_sample...
+[2021.06.23-03.57.55:850][572]LogSkeletalMesh: Section 0: Material=0, 500 triangles
+[2021.06.23-03.57.55:852][572]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/StarterContent/61-low_poly_tree/low_poly_tree/Lowpoly_tree_sample.Lowpoly_tree_sample
+[2021.06.23-03.57.55:915][572]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-03.57.55:915][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-03.57.55:985][573]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/61-low_poly_tree/low_poly_tree/Lowpoly_tree_sample.obj)
+[2021.06.23-03.57.55:988][573]LogEditorFactories: Performing atomic reimport of [C:/Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/61-low_poly_tree/low_poly_tree/Lowpoly_tree_sample.obj]
+[2021.06.23-03.57.55:994][573]LogFbx: Loading FBX Scene from C:/Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/61-low_poly_tree/low_poly_tree/Lowpoly_tree_sample.obj
+[2021.06.23-03.57.56:000][573]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.23-03.57.56:003][573]LogFbx: Triangulating skeletal mesh Default
+[2021.06.23-03.57.56:021][573]LogSkeletalMesh: Section 0: Material=0, 380 triangles
+[2021.06.23-03.57.56:021][573]LogSkeletalMesh: Section 1: Material=1, 120 triangles
+[2021.06.23-03.57.58:378][573]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2021.06.23-03.58.03:964][573]LogSlate: Window 'Message' being destroyed
+[2021.06.23-03.58.06:339][573]LogSlate: Window 'Message' being destroyed
+[2021.06.23-03.58.06:345][573]LogEditorFactories: -- imported successfully
+[2021.06.23-03.58.06:349][573]LogSkeletalMesh: Building Skeletal Mesh Lowpoly_tree_sample...
+[2021.06.23-03.58.06:358][573]LogSkeletalMesh: Section 0: Material=0, 380 triangles
+[2021.06.23-03.58.06:358][573]LogSkeletalMesh: Section 1: Material=1, 120 triangles
+[2021.06.23-03.58.06:359][573]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/StarterContent/61-low_poly_tree/low_poly_tree/Lowpoly_tree_sample.Lowpoly_tree_sample
+[2021.06.23-03.58.06:598][574]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Lowpoly_tree_sampleE11D86BD484CACF269943282641E3745.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/61-low_poly_tree/low_poly_tree/Lowpoly_tree_sample.uasset'
+[2021.06.23-03.58.06:604][574]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Lowpoly_tree_sample32C7DA96461B707010C6519C4B8F786F.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/61-low_poly_tree/low_poly_tree/Lowpoly_tree_sample.uasset'
+[2021.06.23-03.58.06:731][575]AssetCheck: New page: Asset Save: Lowpoly_tree_sample
+[2021.06.23-03.58.06:731][575]LogContentValidation: Display: Validating SkeletalMesh /Game/StarterContent/61-low_poly_tree/low_poly_tree/Lowpoly_tree_sample.Lowpoly_tree_sample
+[2021.06.23-03.58.08:356][666]LogSlate: Window 'Message Log' being destroyed
+[2021.06.23-03.58.08:370][666]LogSlate: Window 'Message Log' being destroyed
+[2021.06.23-03.58.09:717][745]AssetReimport: Importing new asset /Game/StarterContent/61-low_poly_tree/low_poly_tree/Lowpoly_tree_sample.
+[2021.06.23-03.58.09:717][745]AssetReimport: Importing new asset /Game/StarterContent/61-low_poly_tree/low_poly_tree/Lowpoly_tree_sample.
+[2021.06.23-03.59.19:686][778]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\maxmo\OneDrive\Desktop\Unreal Projects\beachDefense\Content\StarterContent\Levels\low_poly_tree\Lowpoly_tree_sample.fbx)
+[2021.06.23-03.59.19:693][778]LogFbx: Loading FBX Scene from C:\Users\maxmo\OneDrive\Desktop\Unreal Projects\beachDefense\Content\StarterContent\Levels\low_poly_tree\Lowpoly_tree_sample.fbx
+[2021.06.23-03.59.19:700][778]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.23-04.00.19:010][778]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.06.23-04.00.19:023][778]LogFbx: Display: Triangulating static mesh Tree_lp_11
+[2021.06.23-04.00.19:034][778]LogStaticMesh: Building static mesh Lowpoly_tree_sample...
+[2021.06.23-04.00.19:044][778]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Levels/Lowpoly_tree_sample.Lowpoly_tree_sample
+[2021.06.23-04.00.19:055][778]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.06.23-04.00.20:962][901]LogSlate: Window 'Message Log' being destroyed
+[2021.06.23-04.00.20:975][901]LogSlate: Window 'Message Log' being destroyed
+[2021.06.23-04.00.22:133][993]LogActorFactory: Actor Factory created Lowpoly_tree_sample
+[2021.06.23-04.00.23:801][162]LogActorFactory: Actor Factory created Lowpoly_tree_sample
+[2021.06.23-04.00.28:212][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.06.23-04.00.28:304][646]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Level01_Auto5552AB14646A6F86845BBFDB0C0260CB4.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Autosaves/Game/StarterContent/Levels/Level01_Auto5.umap'
+[2021.06.23-04.00.28:306][646]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Levels/Level01' took 0.100
+[2021.06.23-04.00.28:306][646]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.100
+[2021.06.23-04.00.28:306][646]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Levels/Grass] ([1] browsable assets)...
+[2021.06.23-04.00.28:306][646]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Levels/Grass]
+[2021.06.23-04.00.28:308][646]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Grass_Auto543DEA8EF45682CDD3DF4008CB1482117.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Autosaves/Game/StarterContent/Levels/Grass_Auto5.uasset'
+[2021.06.23-04.00.28:309][646]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/61-low_poly_tree/low_poly_tree/Lowpoly_tree_sample_Skeleton] ([1] browsable assets)...
+[2021.06.23-04.00.28:309][646]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/61-low_poly_tree/low_poly_tree/Lowpoly_tree_sample_Skeleton]
+[2021.06.23-04.00.28:310][646]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Lowpoly_tree_sample_Skeleton_Aut1E6A68A24F21C078F4B668BD7D752C11.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Autosaves/Game/StarterContent/61-low_poly_tree/low_poly_tree/Lowpoly_tree_sample_Skeleton_Auto5.uasset'
+[2021.06.23-04.00.28:311][646]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/61-low_poly_tree/low_poly_tree/Lowpoly_tree_sample_PhysicsAsset] ([1] browsable assets)...
+[2021.06.23-04.00.28:341][646]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/StarterContent/61-low_poly_tree/low_poly_tree/Lowpoly_tree_sample_PhysicsAsset.Lowpoly_tree_sample_PhysicsAsset]
+[2021.06.23-04.00.28:341][646]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/61-low_poly_tree/low_poly_tree/Lowpoly_tree_sample_PhysicsAsset]
+[2021.06.23-04.00.28:346][646]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Lowpoly_tree_sample_PhysicsAsset74FCDC404C3CC9E19EDF818A9D0A737E.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Autosaves/Game/StarterContent/61-low_poly_tree/low_poly_tree/Lowpoly_tree_sample_PhysicsAsset_Auto5.uasset'
+[2021.06.23-04.00.28:348][646]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Levels/Lowpoly_tree_sample] ([1] browsable assets)...
+[2021.06.23-04.00.28:357][646]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StarterContent/Levels/Lowpoly_tree_sample.Lowpoly_tree_sample]
+[2021.06.23-04.00.28:357][646]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Levels/Lowpoly_tree_sample]
+[2021.06.23-04.00.28:364][646]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Lowpoly_tree_sample_Auto553F832694A48DCC7BAF6DA8E4E4C01CC.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Autosaves/Game/StarterContent/Levels/Lowpoly_tree_sample_Auto5.uasset'
+[2021.06.23-04.00.28:365][646]LogFileHelpers: Auto-saving content packages took 0.060
+[2021.06.23-04.00.48:661][961]LogEditorViewport: Clicking on Actor (context menu): WaterBodyOcean (WaterBodyOcean)
+[2021.06.23-04.00.49:589][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.06.23-04.01.05:676][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lowpoly_tree_sample)
+[2021.06.23-04.01.05:889][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lowpoly_tree_sample)
+[2021.06.23-04.01.15:383][782]LogEditorViewport: Clicking on Actor (LMB): WaterBodyOcean (WaterBodyOcean)
+[2021.06.23-04.01.19:100][895]LogEditorViewport: Clicking on Actor (LMB): WaterBodyOcean (WaterBodyOcean)
+[2021.06.23-04.01.19:924][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lowpoly_tree_sample)
+[2021.06.23-04.01.34:648][174]LogEditorViewport: Clicking on Actor (LMB): WaterBodyOcean (WaterBodyOcean)
+[2021.06.23-04.03.11:228][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lowpoly_tree_sample)
+[2021.06.23-04.03.12:365][404]Cmd: DELETE
+[2021.06.23-04.03.12:365][404]Cmd: ACTOR DELETE
+[2021.06.23-04.03.12:368][404]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.06.23-04.03.12:374][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.06.23-04.03.12:376][404]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.06.23-04.03.18:432][917]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StarterContent/Levels/Lowpoly_tree_sample.Lowpoly_tree_sample
+[2021.06.23-04.03.18:874][918]LogRenderer: Reallocating scene render targets to support 1224x648 Format 9 NumSamples 1 (Frame:1).
+[2021.06.23-04.04.31:976][288]LogRenderer: Reallocating scene render targets to support 1432x920 Format 9 NumSamples 1 (Frame:1407).
+[2021.06.23-04.06.01:396][354]LogSlate: Window 'Message' being destroyed
+[2021.06.23-04.06.01:400][354]Message dialog closed, result: Cancel, title: Message, text: WARNING - Deleting a material slot can break the game play blueprint or the game play code. All indexes after the delete slot will change
+[2021.06.23-04.06.46:866][519]LogSlate: Window 'Message' being destroyed
+[2021.06.23-04.06.46:871][519]Message dialog closed, result: Ok, title: Message, text: WARNING - Deleting a material slot can break the game play blueprint or the game play code. All indexes after the delete slot will change
+[2021.06.23-04.08.46:046][728]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Lowpoly_tree_sampleE21D9E78444556727762FDB5C79F308F.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Lowpoly_tree_sample.uasset'
+[2021.06.23-04.08.46:057][728]AssetCheck: New page: Asset Save: Lowpoly_tree_sample
+[2021.06.23-04.08.46:057][728]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Levels/Lowpoly_tree_sample.Lowpoly_tree_sample
+[2021.06.23-04.09.00:538][537]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Lowpoly_tree_sample5856995F4CC7885FAE243F973D4DF5DE.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Lowpoly_tree_sample.uasset'
+[2021.06.23-04.09.00:550][537]AssetCheck: New page: Asset Save: Lowpoly_tree_sample
+[2021.06.23-04.09.00:550][537]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Levels/Lowpoly_tree_sample.Lowpoly_tree_sample
+[2021.06.23-04.09.01:513][599]LogSlate: Window 'Lowpoly_tree_sample' being destroyed
+[2021.06.23-04.09.01:533][599]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-04.09.01:533][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-04.09.04:028][818]LogActorFactory: Actor Factory created Lowpoly_tree_sample
+[2021.06.23-04.09.04:540][860]LogActorFactory: Actor Factory created Lowpoly_tree_sample
+[2021.06.23-04.09.08:604][308]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Levels/Level01.Level01:PersistentLevel.Lowpoly_tree_sample_5.StaticMeshComponent0)
+[2021.06.23-04.09.08:640][312]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Levels/Level01.Level01:PersistentLevel.Lowpoly_tree_sample_5.StaticMeshComponent0)
+[2021.06.23-04.09.08:825][332]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Levels/Level01.Level01:PersistentLevel.Lowpoly_tree_sample_5.StaticMeshComponent0)
+[2021.06.23-04.09.09:126][365]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Levels/Level01.Level01:PersistentLevel.Lowpoly_tree_sample_5.StaticMeshComponent0)
+[2021.06.23-04.09.15:451][104]Cmd: EDIT COPY
+[2021.06.23-04.09.16:080][179]Cmd: EDIT PASTE
+[2021.06.23-04.09.25:566][251]Cmd: EDIT COPY
+[2021.06.23-04.09.25:768][275]Cmd: EDIT PASTE
+[2021.06.23-04.09.53:031][427]Cmd: EDIT COPY
+[2021.06.23-04.09.53:276][446]Cmd: EDIT PASTE
+[2021.06.23-04.10.23:594][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.06.23-04.10.25:093][935]LogSlate: Window 'Save Content' being destroyed
+[2021.06.23-04.10.25:117][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Levels/Grass" FILE="../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Grass.uasset" SILENT=true
+[2021.06.23-04.10.25:119][935]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Grass43A8368E413C13677CDD9F81DEA4EEF1.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Grass.uasset'
+[2021.06.23-04.10.25:127][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.06.23-04.10.25:216][935]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Level01F956A2314A26C3791605F5955BEB307F.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Level01.umap'
+[2021.06.23-04.10.25:222][935]LogFileHelpers: Saving map 'Level01' took 0.102
+[2021.06.23-04.10.25:226][935]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Level01_BuiltDataB758EB0E4FD4F9D932ABBEBF040E6FF6.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Level01_BuiltData.uasset'
+[2021.06.23-04.10.25:229][935]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Lowpoly_tree_sample_PhysicsAsset6ADC2D2641E222DDED4E7D8804D070A5.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/61-low_poly_tree/low_poly_tree/Lowpoly_tree_sample_PhysicsAsset.uasset'
+[2021.06.23-04.10.25:230][935]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Lowpoly_tree_sample_Skeleton10AF53754613DB4B84C784A0CBA68EAB.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/61-low_poly_tree/low_poly_tree/Lowpoly_tree_sample_Skeleton.uasset'
+[2021.06.23-04.10.25:433][935]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Levels/MainMenuLevel.MainMenuLevel
+[2021.06.23-04.10.25:433][935]Cmd: MAP LOAD FILE="../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.23-04.10.25:433][935]LightingResults: New page: Lighting Build
+[2021.06.23-04.10.25:434][935]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2021.06.23-04.10.25:475][935]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-04.10.25:475][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-04.10.25:475][935]MapCheck: New page: Map Check
+[2021.06.23-04.10.25:475][935]LightingResults: New page: Lighting Build
+[2021.06.23-04.10.25:485][935]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.23-04.10.25:495][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.06.23-04.10.25:497][935]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2021.06.23-04.10.25:555][935]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.23-04.10.25:555][935]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.06.23-04.10.25:562][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.06.23-04.10.25:566][935]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.23-04.10.25:566][935]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.11ms to complete.
+[2021.06.23-04.10.25:566][935]LogFileHelpers: Loading map 'MainMenuLevel' took 0.132
+[2021.06.23-04.10.25:586][935]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.23-04.10.25:586][935]LogContentValidation: Display: Validating PhysicsAsset /Game/StarterContent/61-low_poly_tree/low_poly_tree/Lowpoly_tree_sample_PhysicsAsset.Lowpoly_tree_sample_PhysicsAsset
+[2021.06.23-04.10.25:586][935]LogContentValidation: Display: Validating Skeleton /Game/StarterContent/61-low_poly_tree/low_poly_tree/Lowpoly_tree_sample_Skeleton.Lowpoly_tree_sample_Skeleton
+[2021.06.23-04.10.25:586][935]LogContentValidation: Display: Validating Material /Game/StarterContent/Levels/Grass.Grass
+[2021.06.23-04.10.26:550][ 40]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.23-04.10.26:555][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-04.10.26:555][ 40]PIE: New page: PIE session: MainMenuLevel (Jun 22, 2021, 2:10:26 PM)
+[2021.06.23-04.10.26:584][ 40]LogPlayLevel: Creating play world package: /Game/StarterContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.23-04.10.26:587][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002700s)
+[2021.06.23-04.10.26:588][ 40]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.06.23-04.10.26:588][ 40]LogPlayLevel: PIE: World Init took: (0.001255s)
+[2021.06.23-04.10.26:588][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Levels/MainMenuLevel.MainMenuLevel to /Game/StarterContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.004101s)
+[2021.06.23-04.10.26:595][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.06.23-04.10.26:595][ 40]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.06.23-04.10.26:595][ 40]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.23-04.10.26:595][ 40]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.23-04.10.26:595][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.23-04.10.26:595][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.23-04.10.26:595][ 40]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.23-04.10.26:595][ 40]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.23-04.10.26:595][ 40]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.23-04.10.26:595][ 40]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.23-04.10.26:596][ 40]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.23-04.10.26:596][ 40]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.23-04.10.26:600][ 40]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.23-04.10.26:600][ 40]LogAudioMixer: Display: 1: FrontRight
+[2021.06.23-04.10.26:611][ 40]LogAudioMixer: Display: Using Audio Device Speakers (2- G533 Gaming Headset)
+[2021.06.23-04.10.26:611][ 40]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.23-04.10.26:611][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.23-04.10.26:611][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.23-04.10.26:612][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.23-04.10.26:612][ 40]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.23-04.10.26:612][ 40]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.23-04.10.26:626][ 40]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.23-04.10.26:626][ 40]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.23-04.10.26:626][ 40]LogInit: FAudioDevice initialized.
+[2021.06.23-04.10.26:626][ 40]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenuLevel'.
+[2021.06.23-04.10.26:643][ 40]LogLoad: Game class is 'MainMenuGameMode_C'
+[2021.06.23-04.10.26:644][ 40]LogWorld: Bringing World /Game/StarterContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.06.22-21.10.26
+[2021.06.23-04.10.26:644][ 40]LogWorld: Bringing up level for play took: 0.000290
+[2021.06.23-04.10.26:644][ 40]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.06.23-04.10.26:653][ 40]PIE: Server logged in
+[2021.06.23-04.10.26:654][ 40]PIE: Play in editor total start time 0.1 seconds.
+[2021.06.23-04.10.27:749][149]LogPackageName: SearchForPackageOnDisk took   0.179s to resolve Level01.umap.
+[2021.06.23-04.10.27:834][149]LogPackageName: SearchForPackageOnDisk took   0.084s to resolve Level01.umap.
+[2021.06.23-04.10.27:834][149]LogNet: Browse: /Game/StarterContent/Levels/Level01
+[2021.06.23-04.10.27:834][149]LogLoad: LoadMap: /Game/StarterContent/Levels/Level01
+[2021.06.23-04.10.27:834][149]LogWorld: BeginTearingDown for /Game/StarterContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.23-04.10.27:835][149]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-04.10.27:835][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-04.10.27:869][149]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.23-04.10.27:870][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.23-04.10.27:901][149]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level01'.
+[2021.06.23-04.10.27:902][149]LogAIModule: Creating AISystem for world Level01
+[2021.06.23-04.10.27:902][149]LogLoad: Game class is 'GameModeBase'
+[2021.06.23-04.10.27:920][149]LogWorld: Bringing World /Game/StarterContent/Levels/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2021.06.22-21.10.27
+[2021.06.23-04.10.27:921][149]LogWorld: Bringing up level for play took: 0.017737
+[2021.06.23-04.10.27:921][149]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.23-04.10.27:923][149]LogLoad: Took 0.088687 seconds to LoadMap(/Game/StarterContent/Levels/Level01)
+[2021.06.23-04.10.40:987][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-04.10.40:988][693]LogWorld: BeginTearingDown for /Game/StarterContent/Levels/UEDPIE_0_Level01
+[2021.06.23-04.10.40:988][693]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-04.10.40:989][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-04.10.41:002][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.23-04.10.41:005][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-04.10.41:014][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-04.10.41:014][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-04.10.41:015][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-04.10.41:040][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.06.23-04.10.41:055][694]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.06.23-04.10.41:900][790]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.23-04.10.41:905][790]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-04.10.41:905][790]PIE: New page: PIE session: MainMenuLevel (Jun 22, 2021, 2:10:41 PM)
+[2021.06.23-04.10.41:905][790]LogPlayLevel: Creating play world package: /Game/StarterContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.23-04.10.41:906][790]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000841s)
+[2021.06.23-04.10.41:907][790]LogAIModule: Creating AISystem for world MainMenuLevel
+[2021.06.23-04.10.41:907][790]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2021.06.23-04.10.41:907][790]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Levels/MainMenuLevel.MainMenuLevel to /Game/StarterContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001790s)
+[2021.06.23-04.10.41:912][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.06.23-04.10.41:913][790]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.06.23-04.10.41:913][790]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.23-04.10.41:913][790]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.23-04.10.41:913][790]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.23-04.10.41:913][790]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.23-04.10.41:913][790]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.23-04.10.41:913][790]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.23-04.10.41:913][790]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.23-04.10.41:913][790]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.23-04.10.41:913][790]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.23-04.10.41:913][790]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.23-04.10.41:917][790]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.23-04.10.41:917][790]LogAudioMixer: Display: 1: FrontRight
+[2021.06.23-04.10.41:927][790]LogAudioMixer: Display: Using Audio Device Speakers (2- G533 Gaming Headset)
+[2021.06.23-04.10.41:927][790]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.23-04.10.41:927][790]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.23-04.10.41:927][790]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.23-04.10.41:927][790]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.23-04.10.41:927][790]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.23-04.10.41:927][790]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.23-04.10.41:940][790]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.23-04.10.41:940][790]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.23-04.10.41:940][790]LogInit: FAudioDevice initialized.
+[2021.06.23-04.10.41:940][790]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenuLevel'.
+[2021.06.23-04.10.41:952][790]LogLoad: Game class is 'MainMenuGameMode_C'
+[2021.06.23-04.10.41:953][790]LogWorld: Bringing World /Game/StarterContent/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2021.06.22-21.10.41
+[2021.06.23-04.10.41:953][790]LogWorld: Bringing up level for play took: 0.000275
+[2021.06.23-04.10.41:953][790]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.06.23-04.10.41:955][790]PIE: Server logged in
+[2021.06.23-04.10.41:956][790]PIE: Play in editor total start time 0.052 seconds.
+[2021.06.23-04.10.43:103][917]LogPackageName: SearchForPackageOnDisk took   0.086s to resolve Level01.umap.
+[2021.06.23-04.10.43:189][917]LogPackageName: SearchForPackageOnDisk took   0.085s to resolve Level01.umap.
+[2021.06.23-04.10.43:189][917]LogNet: Browse: /Game/StarterContent/Levels/Level01
+[2021.06.23-04.10.43:189][917]LogLoad: LoadMap: /Game/StarterContent/Levels/Level01
+[2021.06.23-04.10.43:189][917]LogWorld: BeginTearingDown for /Game/StarterContent/Levels/UEDPIE_0_MainMenuLevel
+[2021.06.23-04.10.43:190][917]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-04.10.43:190][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-04.10.43:195][917]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.23-04.10.43:196][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.23-04.10.43:225][917]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level01'.
+[2021.06.23-04.10.43:226][917]LogAIModule: Creating AISystem for world Level01
+[2021.06.23-04.10.43:226][917]LogLoad: Game class is 'GameModeBase'
+[2021.06.23-04.10.43:230][917]LogWorld: Bringing World /Game/StarterContent/Levels/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2021.06.22-21.10.43
+[2021.06.23-04.10.43:231][917]LogWorld: Bringing up level for play took: 0.003809
+[2021.06.23-04.10.43:231][917]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.23-04.10.43:232][917]LogLoad: Took 0.042831 seconds to LoadMap(/Game/StarterContent/Levels/Level01)
+[2021.06.23-04.10.45:311][126]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.23-04.10.48:463][432]Cmd: SELECT NONE
+[2021.06.23-04.10.49:478][553]Cmd: SELECT NONE
+[2021.06.23-04.10.49:702][580]Cmd: SELECT NONE
+[2021.06.23-04.10.49:919][606]Cmd: SELECT NONE
+[2021.06.23-04.10.50:136][632]Cmd: SELECT NONE
+[2021.06.23-04.10.50:988][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-04.10.50:988][730]LogWorld: BeginTearingDown for /Game/StarterContent/Levels/UEDPIE_0_Level01
+[2021.06.23-04.10.50:988][730]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-04.10.50:990][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-04.10.51:009][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.23-04.10.51:013][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-04.10.51:029][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-04.10.51:030][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-04.10.51:031][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-04.10.51:057][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.06.23-04.10.51:075][731]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.06.23-04.10.53:477][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.06.23-04.10.53:519][991]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Levels/Level01.Level01
+[2021.06.23-04.10.53:519][991]Cmd: MAP LOAD FILE="../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Level01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.23-04.10.53:519][991]LightingResults: New page: Lighting Build
+[2021.06.23-04.10.53:519][991]LoadErrors: New page: Loading map: Level01.umap
+[2021.06.23-04.10.53:554][991]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-04.10.53:554][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-04.10.53:554][991]MapCheck: New page: Map Check
+[2021.06.23-04.10.53:555][991]LightingResults: New page: Lighting Build
+[2021.06.23-04.10.53:560][991]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.23-04.10.53:561][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.06.23-04.10.53:562][991]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level01'.
+[2021.06.23-04.10.53:658][991]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.23-04.10.53:658][991]LogAIModule: Creating AISystem for world Level01
+[2021.06.23-04.10.53:669][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.06.23-04.10.53:672][991]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.23-04.10.53:673][991]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.159ms to complete.
+[2021.06.23-04.10.53:673][991]LogFileHelpers: Loading map 'Level01' took 0.154
+[2021.06.23-04.13.39:694][467]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.23-04.13.43:470][851]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.06.23-04.13.44:284][947]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.06.23-04.13.45:205][ 56]Cmd: EDIT CUT
+[2021.06.23-04.13.45:208][ 56]LogEditorActor: Deleted Actor: PlayerStart
+[2021.06.23-04.13.45:214][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.06.23-04.13.45:220][ 56]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2021.06.23-04.13.48:101][316]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.06.23-04.14.00:420][505]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.06.23-04.14.06:079][137]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.23-04.14.06:084][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-04.14.06:085][137]PIE: New page: PIE session: Level01 (Jun 22, 2021, 2:14:06 PM)
+[2021.06.23-04.14.06:085][137]LogPlayLevel: Creating play world package: /Game/StarterContent/Levels/UEDPIE_0_Level01
+[2021.06.23-04.14.06:118][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032948s)
+[2021.06.23-04.14.06:119][137]LogAIModule: Creating AISystem for world Level01
+[2021.06.23-04.14.06:119][137]LogPlayLevel: PIE: World Init took: (0.001202s)
+[2021.06.23-04.14.06:119][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Levels/Level01.Level01 to /Game/StarterContent/Levels/UEDPIE_0_Level01.Level01 (0.034279s)
+[2021.06.23-04.14.06:126][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.06.23-04.14.06:129][137]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.06.23-04.14.06:129][137]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.23-04.14.06:129][137]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.23-04.14.06:129][137]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.23-04.14.06:129][137]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.23-04.14.06:129][137]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.23-04.14.06:129][137]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.23-04.14.06:129][137]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.23-04.14.06:129][137]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.23-04.14.06:130][137]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.23-04.14.06:130][137]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.23-04.14.06:133][137]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.23-04.14.06:133][137]LogAudioMixer: Display: 1: FrontRight
+[2021.06.23-04.14.06:143][137]LogAudioMixer: Display: Using Audio Device Speakers (2- G533 Gaming Headset)
+[2021.06.23-04.14.06:143][137]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.23-04.14.06:143][137]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.23-04.14.06:143][137]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.23-04.14.06:143][137]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.23-04.14.06:143][137]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.23-04.14.06:143][137]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.23-04.14.06:156][137]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.23-04.14.06:156][137]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.23-04.14.06:156][137]LogInit: FAudioDevice initialized.
+[2021.06.23-04.14.06:156][137]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level01'.
+[2021.06.23-04.14.06:165][137]LogLoad: Game class is 'GameModeBase'
+[2021.06.23-04.14.06:167][137]LogWorld: Bringing World /Game/StarterContent/Levels/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2021.06.22-21.14.06
+[2021.06.23-04.14.06:168][137]LogWorld: Bringing up level for play took: 0.002730
+[2021.06.23-04.14.06:168][137]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.06.23-04.14.06:172][137]PIE: Server logged in
+[2021.06.23-04.14.06:173][137]PIE: Play in editor total start time 0.089 seconds.
+[2021.06.23-04.14.09:469][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-04.14.09:469][520]LogWorld: BeginTearingDown for /Game/StarterContent/Levels/UEDPIE_0_Level01
+[2021.06.23-04.14.09:469][520]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-04.14.09:471][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-04.14.09:488][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.23-04.14.09:514][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-04.14.09:521][520]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.23-04.14.09:521][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-04.14.09:522][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-04.14.09:537][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-04.14.09:539][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.06.23-04.14.09:575][521]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.06.23-04.14.13:903][633]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape2)
+[2021.06.23-04.14.16:266][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.06.23-04.14.18:233][993]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape2)
+[2021.06.23-04.14.56:563][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.06.23-04.14.57:196][664]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.23-04.14.57:201][664]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-04.14.57:201][664]PIE: New page: PIE session: Level01 (Jun 22, 2021, 2:14:57 PM)
+[2021.06.23-04.14.57:223][664]LogPlayLevel: Creating play world package: /Game/StarterContent/Levels/UEDPIE_0_Level01
+[2021.06.23-04.14.57:313][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.089346s)
+[2021.06.23-04.14.57:315][664]LogAIModule: Creating AISystem for world Level01
+[2021.06.23-04.14.57:315][664]LogPlayLevel: PIE: World Init took: (0.001709s)
+[2021.06.23-04.14.57:315][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Levels/Level01.Level01 to /Game/StarterContent/Levels/UEDPIE_0_Level01.Level01 (0.091443s)
+[2021.06.23-04.14.57:325][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.06.23-04.14.57:328][664]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.06.23-04.14.57:328][664]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.23-04.14.57:328][664]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.23-04.14.57:328][664]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.23-04.14.57:328][664]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.23-04.14.57:328][664]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.23-04.14.57:328][664]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.23-04.14.57:328][664]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.23-04.14.57:328][664]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.23-04.14.57:329][664]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.23-04.14.57:329][664]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.23-04.14.57:332][664]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.23-04.14.57:332][664]LogAudioMixer: Display: 1: FrontRight
+[2021.06.23-04.14.57:342][664]LogAudioMixer: Display: Using Audio Device Speakers (2- G533 Gaming Headset)
+[2021.06.23-04.14.57:342][664]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.23-04.14.57:342][664]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.23-04.14.57:342][664]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.23-04.14.57:342][664]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.23-04.14.57:342][664]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.23-04.14.57:343][664]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.23-04.14.57:355][664]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.23-04.14.57:355][664]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.23-04.14.57:355][664]LogInit: FAudioDevice initialized.
+[2021.06.23-04.14.57:356][664]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level01'.
+[2021.06.23-04.14.57:365][664]LogLoad: Game class is 'GameModeBase'
+[2021.06.23-04.14.57:367][664]LogWorld: Bringing World /Game/StarterContent/Levels/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2021.06.22-21.14.57
+[2021.06.23-04.14.57:368][664]LogWorld: Bringing up level for play took: 0.002662
+[2021.06.23-04.14.57:368][664]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.06.23-04.14.57:370][664]PIE: Server logged in
+[2021.06.23-04.14.57:371][664]PIE: Play in editor total start time 0.172 seconds.
+[2021.06.23-04.14.58:987][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-04.14.58:987][817]LogWorld: BeginTearingDown for /Game/StarterContent/Levels/UEDPIE_0_Level01
+[2021.06.23-04.14.58:988][817]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-04.14.58:989][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-04.14.59:009][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.23-04.14.59:059][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-04.14.59:073][817]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.23-04.14.59:073][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-04.14.59:075][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-04.14.59:097][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-04.14.59:101][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.06.23-04.14.59:132][818]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.06.23-04.15.09:866][ 33]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/StarterContent/Levels/Level01.Level01:PersistentLevel.Level01
+[2021.06.23-04.15.10:182][ 33]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.06.23-04.15.10:183][ 33]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.06.23-04.15.10:183][ 33]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.06.23-04.15.10:600][ 33]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.06.23-04.15.10:600][ 33]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by M_Fluid_Sim_01
+[2021.06.23-04.15.10:603][ 33]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.06.23-04.15.10:603][ 33]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by MaterialExpressionTextureSample_1
+[2021.06.23-04.15.10:617][ 33]LogMaterial: Display: Missing cached shader map for material MakeEdgeMask, compiling. 
+[2021.06.23-04.15.10:620][ 33]LogMaterial: Display: Missing cached shader map for material CopyRT, compiling. 
+[2021.06.23-04.15.10:633][ 33]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.06.23-04.15.10:633][ 33]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.06.23-04.15.10:633][ 33]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2021.06.23-04.15.10:633][ 33]LogMaterial: Display: Missing cached shader map for material M_ComputeNormal, compiling. 
+[2021.06.23-04.15.10:639][ 33]LogMaterial: Display: Missing cached shader map for material M_ComputeNormal, compiling. 
+[2021.06.23-04.15.11:648][ 33]LogTexture: Display: Building textures: Caustics_Animated_01_HDR (RGBA16F, 4096X2048)
+[2021.06.23-04.15.11:648][ 33]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.06.23-04.15.11:648][ 33]LogMaterial: Display: Missing cached shader map for material M_Underwater_CrossSection_Test, compiling. 
+[2021.06.23-04.15.11:660][ 33]LogMaterial: Display: Missing cached shader map for material FoamDeltaCopy, compiling. 
+[2021.06.23-04.15.11:663][ 33]LogMaterial: Display: Missing cached shader map for material FoamDiffuse, compiling. 
+[2021.06.23-04.15.11:667][ 33]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2021.06.23-04.15.11:669][ 33]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.23-04.15.11:669][ 33]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.23-04.15.11:671][ 33]LogMaterial: Display: Missing cached shader map for material M_Advect_Height_01, compiling. 
+[2021.06.23-04.15.11:674][ 33]LogMaterial: Display: Missing cached shader map for material M_Advect_Height_01, compiling. 
+[2021.06.23-04.15.11:677][ 33]LogMaterial: Display: Missing cached shader map for material M_Advect_Height_01, compiling. 
+[2021.06.23-04.15.11:680][ 33]LogMaterial: Display: Missing cached shader map for material M_SeedWater_01, compiling. 
+[2021.06.23-04.15.11:683][ 33]LogMaterial: Display: Missing cached shader map for material M_GravAcceleration, compiling. 
+[2021.06.23-04.15.11:686][ 33]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2021.06.23-04.15.11:687][ 33]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01_NoTerrain.uasset: Failed to compile Material Instance with Base M_Fluid_Sim_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.23-04.15.11:687][ 33]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.23-04.15.11:687][ 33]LogStaticMesh: Building static mesh S_WaterPlane_256...
+[2021.06.23-04.15.11:774][ 33]LogStaticMesh: Built static mesh [0.09s] /Water/Meshes/S_WaterPlane_256.S_WaterPlane_256
+[2021.06.23-04.15.11:776][ 33]LogMaterial: Display: Missing cached shader map for material M_ComputeNormal, compiling. 
+[2021.06.23-04.15.11:781][ 33]LogMaterial: Display: Missing cached shader map for material M_ComputeNormal, compiling. 
+[2021.06.23-04.15.11:786][ 33]LogMaterial: Display: Missing cached shader map for material ComputeVoronoiDistance, compiling. 
+[2021.06.23-04.15.11:791][ 33]LogMaterial: Display: Missing cached shader map for material M_RT_Normals, compiling. 
+[2021.06.23-04.15.11:794][ 33]LogMaterial: Display: Missing cached shader map for material DrawWaveCrests, compiling. 
+[2021.06.23-04.15.11:797][ 33]LogMaterial: Display: Missing cached shader map for material M_Rain_01, compiling. 
+[2021.06.23-04.15.11:801][ 33]LogMaterial: Display: Missing cached shader map for material M_CalcDivergence, compiling. 
+[2021.06.23-04.15.11:804][ 33]LogMaterial: Display: Missing cached shader map for material M_Advect_Velocity, compiling. 
+[2021.06.23-04.15.11:807][ 33]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_Force_Component, compiling. 
+[2021.06.23-04.15.11:812][ 33]LogMaterial: Display: Missing cached shader map for material M_Fluid_Display_01, compiling. 
+[2021.06.23-04.15.11:846][ 33]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_Force_Impulse, compiling. 
+[2021.06.23-04.15.11:850][ 33]LogMaterial: Display: Missing cached shader map for material M_Fluid_Force_Skelmesh, compiling. 
+[2021.06.23-04.15.11:856][ 33]LogMaterial: Display: Missing cached shader map for material PerfTestNoiseMaterial, compiling. 
+[2021.06.23-04.15.11:859][ 33]LogBlueprintEditor: Perf: 1.9 total seconds to load all 7 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.06.23-04.15.11:859][ 33]LogBlueprintEditor: Perf: 1.8 seconds loading: /Water/FluidSimulation/Blueprints/Libraries/PhysicsMacros
+[2021.06.23-04.15.12:372][ 33]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 130
+[2021.06.23-04.15.12:398][ 33]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 126 classes and 0 folders.
+[2021.06.23-04.15.13:318][ 33]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 120
+[2021.06.23-04.15.15:834][147]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 110
+[2021.06.23-04.15.17:762][255]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 100
+[2021.06.23-04.15.18:621][278]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 90
+[2021.06.23-04.15.24:058][396]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 80
+[2021.06.23-04.15.26:040][538]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 70
+[2021.06.23-04.15.27:639][641]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 60
+[2021.06.23-04.15.31:983][703]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2021.06.23-04.15.33:069][730]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2021.06.23-04.15.33:640][745]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2021.06.23-04.15.36:064][809]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.06.23-04.15.38:364][869]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.06.23-04.15.38:815][883]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2021.06.23-04.15.39:841][895]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.06.23-04.15.41:329][913]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.06.23-04.15.41:706][917]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.06.23-04.18.13:170][237]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.06.23-04.18.13:259][237]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Level0133F2C6AA41BA00C35FEE24B456736198.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Level01.umap'
+[2021.06.23-04.18.13:264][237]LogFileHelpers: Saving map 'Level01' took 0.129
+[2021.06.23-04.18.13:276][237]AssetCheck: New page: Asset Save: Level01
+[2021.06.23-04.18.13:276][237]LogContentValidation: Display: Validating World /Game/StarterContent/Levels/Level01.Level01
+[2021.06.23-04.18.13:392][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.06.23-04.18.13:477][243]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Level01AB4D2E4F4255DDA3D2740A8740F97156.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Level01.umap'
+[2021.06.23-04.18.13:488][243]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Level01_BuiltData24E89D1247B4B33BD711E880CCBC858F.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Level01_BuiltData.uasset'
+[2021.06.23-04.18.13:499][243]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.23-04.18.13:499][243]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Levels/Level01_BuiltData.Level01_BuiltData
+[2021.06.23-04.18.13:499][243]LogContentValidation: Display: Validating World /Game/StarterContent/Levels/Level01.Level01
+[2021.06.23-04.18.15:125][350]BlueprintLog: New page: Compile Level01
+[2021.06.23-04.18.15:164][350]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.06.23-04.18.15:988][387]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.06.23-04.18.16:074][387]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Level019A0229804B4525BC992498A64AE3DC47.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Level01.umap'
+[2021.06.23-04.18.16:079][387]LogFileHelpers: Saving map 'Level01' took 0.112
+[2021.06.23-04.18.16:089][387]AssetCheck: New page: Asset Save: Level01
+[2021.06.23-04.18.16:089][387]LogContentValidation: Display: Validating World /Game/StarterContent/Levels/Level01.Level01
+[2021.06.23-04.18.16:917][446]LogSlate: Window 'Level01' being destroyed
+[2021.06.23-04.18.16:923][446]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-04.18.16:923][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-04.18.18:052][558]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.23-04.18.18:056][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.23-04.18.18:057][558]PIE: New page: PIE session: Level01 (Jun 22, 2021, 2:18:18 PM)
+[2021.06.23-04.18.18:057][558]LogPlayLevel: Creating play world package: /Game/StarterContent/Levels/UEDPIE_0_Level01
+[2021.06.23-04.18.18:081][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024117s)
+[2021.06.23-04.18.18:082][558]LogAIModule: Creating AISystem for world Level01
+[2021.06.23-04.18.18:082][558]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2021.06.23-04.18.18:082][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Levels/Level01.Level01 to /Game/StarterContent/Levels/UEDPIE_0_Level01.Level01 (0.025363s)
+[2021.06.23-04.18.18:101][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.06.23-04.18.18:103][558]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.06.23-04.18.18:103][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.23-04.18.18:103][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.23-04.18.18:103][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.23-04.18.18:103][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.23-04.18.18:103][558]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.23-04.18.18:103][558]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.23-04.18.18:103][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.23-04.18.18:103][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.23-04.18.18:103][558]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.23-04.18.18:103][558]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.23-04.18.18:107][558]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.23-04.18.18:107][558]LogAudioMixer: Display: 1: FrontRight
+[2021.06.23-04.18.18:116][558]LogAudioMixer: Display: Using Audio Device Speakers (2- G533 Gaming Headset)
+[2021.06.23-04.18.18:117][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.23-04.18.18:117][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.23-04.18.18:117][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.23-04.18.18:117][558]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.23-04.18.18:117][558]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.23-04.18.18:117][558]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.23-04.18.18:130][558]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.23-04.18.18:130][558]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.23-04.18.18:130][558]LogInit: FAudioDevice initialized.
+[2021.06.23-04.18.18:130][558]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level01'.
+[2021.06.23-04.18.18:153][558]LogLoad: Game class is 'GameModeBase'
+[2021.06.23-04.18.18:162][558]LogWorld: Bringing World /Game/StarterContent/Levels/UEDPIE_0_Level01.Level01 up for play (max tick rate 0) at 2021.06.22-21.18.18
+[2021.06.23-04.18.18:164][558]LogWorld: Bringing up level for play took: 0.008062
+[2021.06.23-04.18.18:164][558]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.06.23-04.18.18:169][558]PIE: Server logged in
+[2021.06.23-04.18.18:170][558]PIE: Play in editor total start time 0.115 seconds.
+[2021.06.23-04.18.57:314][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-04.18.57:314][166]LogWorld: BeginTearingDown for /Game/StarterContent/Levels/UEDPIE_0_Level01
+[2021.06.23-04.18.57:314][166]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-04.18.57:314][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-04.18.57:322][166]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.23-04.18.57:362][166]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-04.18.57:379][166]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.23-04.18.57:379][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-04.18.57:380][166]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.23-04.18.57:393][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.23-04.18.57:396][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.06.23-04.18.57:432][167]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.06.23-04.19.03:303][773]LogEditorViewport: Clicking on Actor (LMB): WaterBodyOcean (WaterBodyOcean)
+[2021.06.23-04.19.05:078][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.06.23-04.19.08:777][403]LogEditorViewport: Clicking on Actor (context menu): WaterBodyRiver (WaterBodyRiver)
+[2021.06.23-04.19.09:516][443]LogEditorViewport: Clicking on Actor (LMB): WaterBodyOcean (WaterBodyOcean)
+[2021.06.23-04.19.09:939][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.06.23-04.20.41:418][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.06.23-04.20.41:510][861]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Level0108C119194BCF839F903B0DBA5A6328C4.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Level01.umap'
+[2021.06.23-04.20.41:520][861]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Level01_BuiltData26278933424D88FB56F0C99CC6E4934B.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Level01_BuiltData.uasset'
+[2021.06.23-04.20.41:533][861]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.23-04.20.41:533][861]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Levels/Level01_BuiltData.Level01_BuiltData
+[2021.06.23-04.20.41:533][861]LogContentValidation: Display: Validating World /Game/StarterContent/Levels/Level01.Level01
+[2021.06.23-04.20.41:640][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.06.23-04.20.41:727][869]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Level0161B9392D45561A0AB90189BD2C60DAD5.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Level01.umap'
+[2021.06.23-04.20.41:735][869]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Level01_BuiltData2D9C357E4F8F83FAAC8B4A9720ECDF35.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Level01_BuiltData.uasset'
+[2021.06.23-04.20.41:747][869]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.23-04.20.41:747][869]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Levels/Level01_BuiltData.Level01_BuiltData
+[2021.06.23-04.20.41:747][869]LogContentValidation: Display: Validating World /Game/StarterContent/Levels/Level01.Level01
+[2021.06.23-04.20.41:823][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.06.23-04.20.41:908][875]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Level01E921BD9D4BFD2AB1FA00D4A61B845023.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Level01.umap'
+[2021.06.23-04.20.41:918][875]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Level01_BuiltData87B1BD0B4979AF3B2CA274B6CA664F90.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Level01_BuiltData.uasset'
+[2021.06.23-04.20.41:928][875]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.23-04.20.41:928][875]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Levels/Level01_BuiltData.Level01_BuiltData
+[2021.06.23-04.20.41:928][875]LogContentValidation: Display: Validating World /Game/StarterContent/Levels/Level01.Level01
+[2021.06.23-04.20.42:034][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.06.23-04.20.42:119][884]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Level01FEEE0EC1494B67F6916BF4AA82404CF1.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Level01.umap'
+[2021.06.23-04.20.42:128][884]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Level01_BuiltData62BD2A064735F56C127990AB04329C2E.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Level01_BuiltData.uasset'
+[2021.06.23-04.20.42:138][884]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.23-04.20.42:138][884]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Levels/Level01_BuiltData.Level01_BuiltData
+[2021.06.23-04.20.42:139][884]LogContentValidation: Display: Validating World /Game/StarterContent/Levels/Level01.Level01
