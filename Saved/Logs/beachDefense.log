@@ -1747,3 +1747,404 @@ Landscape_WaterBrushManager
 [2021.06.23-03.27.31:062][131]Water Texture Update Time: 0.032173 secs
 [2021.06.23-03.27.37:401][440]LogTexture: Display: Building textures: WaterVelocityTexture (RGBA16F, 512X512)
 [2021.06.23-03.27.37:416][440]Water Texture Update Time: 0.042816 secs
+[2021.06.23-03.28.07:984][786]LogEditorViewport: Clicking on Actor (LMB): WaterBodyOcean (WaterBodyOcean)
+[2021.06.23-03.28.36:712][236]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape2)
+[2021.06.23-03.28.37:022][256]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape2)
+[2021.06.23-03.29.06:733][838]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.06.23-03.29.21:784][723]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape2)
+[2021.06.23-03.29.22:171][751]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape2)
+[2021.06.23-03.29.30:079][358]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape2)
+[2021.06.23-03.29.30:395][383]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape2)
+[2021.06.23-03.30.45:810][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.06.23-03.30.45:826][750]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.06.23-03.30.45:838][750]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.06.23-03.30.45:933][750]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Level01_Auto383054C764AD65FCFC3DDCB8CC86F5A54.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Autosaves/Game/StarterContent/Levels/Level01_Auto3.umap'
+[2021.06.23-03.30.45:936][750]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Levels/Level01' took 0.141
+[2021.06.23-03.30.45:936][750]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.141
+[2021.06.23-03.31.49:809][ 37]LogEditorViewport: Clicking Background
+[2021.06.23-03.31.58:157][682]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2021.06.23-03.32.04:967][168]Cmd: TRANSACTION UNDO
+[2021.06.23-03.32.04:967][168]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.06.23-03.32.04:994][168]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2021.06.23-03.32.05:423][182]Cmd: TRANSACTION UNDO
+[2021.06.23-03.32.05:423][182]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.06.23-03.32.18:850][883]Cmd: TRANSACTION UNDO
+[2021.06.23-03.32.18:850][883]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.06.23-03.32.18:933][883]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2021.06.23-03.32.19:083][886]Cmd: TRANSACTION UNDO
+[2021.06.23-03.32.19:083][886]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.06.23-03.32.19:099][886]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2021.06.23-03.32.19:310][893]Cmd: TRANSACTION UNDO
+[2021.06.23-03.32.19:310][893]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.06.23-03.32.19:489][904]Cmd: TRANSACTION UNDO
+[2021.06.23-03.32.19:489][904]LogEditorTransaction: Undo Create Layer
+[2021.06.23-03.32.19:552][904]LogTexture: Display: Building textures: WaterVelocityTexture (RGBA16F, 512X512)
+[2021.06.23-03.32.19:560][904]Water Texture Update Time: 0.036405 secs
+[2021.06.23-03.32.20:470][971]Cmd: TRANSACTION UNDO
+[2021.06.23-03.32.20:470][971]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.06.23-03.32.20:495][971]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.06.23-03.32.20:903][  2]Cmd: TRANSACTION UNDO
+[2021.06.23-03.32.20:903][  2]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.06.23-03.32.20:917][  2]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.06.23-03.32.21:146][ 16]Cmd: TRANSACTION UNDO
+[2021.06.23-03.32.21:146][ 16]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.06.23-03.32.21:167][ 16]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.06.23-03.32.21:377][ 31]Cmd: TRANSACTION UNDO
+[2021.06.23-03.32.21:378][ 31]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.06.23-03.32.21:395][ 31]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.06.23-03.32.22:540][110]Cmd: TRANSACTION UNDO
+[2021.06.23-03.32.22:540][110]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.06.23-03.32.22:550][110]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.06.23-03.32.22:784][127]Cmd: TRANSACTION UNDO
+[2021.06.23-03.32.22:784][127]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.06.23-03.32.22:807][127]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.06.23-03.32.22:982][139]Cmd: TRANSACTION UNDO
+[2021.06.23-03.32.22:982][139]LogEditorTransaction: Undo Landscape Editing: Noise
+[2021.06.23-03.32.32:062][502]LogSlate: Window 'Message' being destroyed
+[2021.06.23-03.32.32:071][502]Message dialog closed, result: Yes, title: Message, text: The layer Layer content will be completely cleared.  Continue?
+[2021.06.23-03.32.38:535][985]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2021.06.23-03.33.01:247][147]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.06.23-03.34.01:405][121]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.06.23-03.34.01:415][121]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.06.23-03.34.02:911][223]LogContentBrowser: Attempting asset rename: NewMaterial -> Grass
+[2021.06.23-03.34.02:912][223]LogContentBrowser: End creating deferred item NewMaterial
+[2021.06.23-03.34.06:417][324]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Levels/Grass.Grass
+[2021.06.23-03.34.06:423][324]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.34.06:762][324]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.34.06:776][324]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.06.23-03.34.06:776][324]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.06.23-03.34.06:776][324]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.06.23-03.34.06:795][324]LogSlate: Took 0.000633 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.06.23-03.34.07:859][360]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.06.23-03.34.08:429][381]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.06.23-03.34.08:512][383]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.06.23-03.34.09:045][401]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.06.23-03.34.09:243][409]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.06.23-03.34.09:618][423]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.06.23-03.34.10:996][452]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.06.23-03.34.10:997][452]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.06.23-03.34.10:997][452]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.06.23-03.34.10:997][452]MaterialEditorStats: Texture samplers: 2/16
+[2021.06.23-03.34.31:195][999]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.34.31:196][999]LogMaterial: Warning: [AssetLog] /Engine/Transient.Grass (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.23-03.34.31:196][999]LogMaterial: Display: 	Grass> Input missing
+[2021.06.23-03.34.31:198][999]MaterialEditorStats: Error: [SM5] Grass> Input missing
+[2021.06.23-03.34.38:964][295]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.34.38:965][295]LogMaterial: Warning: [AssetLog] /Engine/Transient.Grass (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.23-03.34.38:965][295]LogMaterial: Display: 	Grass> Input missing
+[2021.06.23-03.34.44:339][380]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.34.44:339][380]LogMaterial: Warning: [AssetLog] /Engine/Transient.Grass (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.23-03.34.44:339][380]LogMaterial: Display: 	Grass> Input missing
+[2021.06.23-03.35.20:068][534]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.35.20:069][534]LogMaterial: Warning: [AssetLog] /Engine/Transient.Grass (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.23-03.35.20:069][534]LogMaterial: Display: 	Grass> Input missing
+[2021.06.23-03.35.20:071][534]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.35.20:071][534]LogMaterial: Warning: [AssetLog] /Engine/Transient.Grass (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.23-03.35.20:071][534]LogMaterial: Display: 	Grass> Input missing
+[2021.06.23-03.35.32:168][122]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.35.32:168][122]LogMaterial: Warning: [AssetLog] /Engine/Transient.Grass (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.23-03.35.32:168][122]LogMaterial: Display: 	Grass> Input missing
+[2021.06.23-03.35.32:170][122]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.35.32:170][122]LogMaterial: Warning: [AssetLog] /Engine/Transient.Grass (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.23-03.35.32:170][122]LogMaterial: Display: 	Grass> Input missing
+[2021.06.23-03.35.58:784][614]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.35.58:784][614]LogMaterial: Warning: [AssetLog] /Engine/Transient.Grass (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.23-03.35.58:784][614]LogMaterial: Display: 	Grass> Input missing
+[2021.06.23-03.35.58:786][614]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.35.58:786][614]LogMaterial: Warning: [AssetLog] /Engine/Transient.Grass (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.23-03.35.58:786][614]LogMaterial: Display: 	Grass> Input missing
+[2021.06.23-03.36.04:580][893]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.36.04:581][893]LogMaterial: Warning: [AssetLog] /Engine/Transient.Grass (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.23-03.36.04:581][893]LogMaterial: Display: 	Grass> Input missing
+[2021.06.23-03.36.04:584][893]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.36.04:584][893]LogMaterial: Warning: [AssetLog] /Engine/Transient.Grass (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.23-03.36.04:584][893]LogMaterial: Display: 	Grass> Input missing
+[2021.06.23-03.36.44:206][ 33]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.36.44:206][ 33]LogMaterial: Warning: [AssetLog] /Engine/Transient.Grass (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.23-03.36.44:206][ 33]LogMaterial: Display: 	Grass> Input missing
+[2021.06.23-03.36.44:207][ 33]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.23-03.36.44:220][ 33]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.23-03.36.44:251][ 34]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.06.23-03.36.44:251][ 34]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.06.23-03.36.44:251][ 34]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.06.23-03.36.45:399][ 72]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.06.23-03.36.56:297][467]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.36.56:298][467]LogMaterial: Warning: [AssetLog] /Engine/Transient.Grass (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.23-03.36.56:298][467]LogMaterial: Display: 	Grass> Input missing
+[2021.06.23-03.36.56:304][467]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.06.23-03.36.56:318][468]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.06.23-03.36.56:319][468]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.06.23-03.36.56:319][468]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.06.23-03.36.57:045][494]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.06.23-03.37.06:001][760]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.37.06:019][761]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.06.23-03.37.06:019][761]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.06.23-03.37.06:019][761]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.06.23-03.37.07:127][787]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.06.23-03.37.07:278][791]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.06.23-03.37.07:506][795]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.06.23-03.37.08:076][805]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.06.23-03.37.08:108][805]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.06.23-03.37.08:171][805]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.06.23-03.37.09:699][826]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.06.23-03.37.09:700][826]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.06.23-03.37.09:700][826]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.06.23-03.37.09:700][826]MaterialEditorStats: Texture samplers: 2/16
+[2021.06.23-03.40.30:751][521]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.06.23-03.40.31:242][568]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2021.06.23-03.41.06:334][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.06.23-03.41.06:348][632]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2021.06.23-03.41.06:354][632]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2021.06.23-03.41.06:367][632]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.06.23-03.41.06:459][632]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Level01_Auto45321B0A24D51D3276B610ABB4D3B3C63.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Autosaves/Game/StarterContent/Levels/Level01_Auto4.umap'
+[2021.06.23-03.41.06:463][632]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Levels/Level01' took 0.139
+[2021.06.23-03.41.06:463][632]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.139
+[2021.06.23-03.47.05:760][136]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.47.05:791][137]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.06.23-03.47.05:791][137]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.06.23-03.47.05:791][137]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.06.23-03.47.07:313][236]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.06.23-03.47.07:403][242]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.06.23-03.47.07:880][272]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.06.23-03.47.07:932][274]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.47.08:918][304]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.06.23-03.47.09:203][308]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.06.23-03.47.09:203][308]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.06.23-03.47.10:469][327]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.06.23-03.47.10:775][330]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.06.23-03.47.10:775][330]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2021.06.23-03.47.11:912][341]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.06.23-03.47.12:035][342]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.06.23-03.47.12:558][349]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.06.23-03.47.14:238][360]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.06.23-03.47.14:238][360]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.06.23-03.47.14:238][360]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.06.23-03.47.14:238][360]MaterialEditorStats: Texture samplers: 2/16
+[2021.06.23-03.47.51:957][881]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.47.51:987][882]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.06.23-03.47.51:987][882]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.06.23-03.47.51:987][882]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.06.23-03.47.54:139][998]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.06.23-03.47.54:187][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2021.06.23-03.47.54:347][  9]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.06.23-03.47.55:170][ 63]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.06.23-03.47.55:412][ 79]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.06.23-03.47.55:440][ 81]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.06.23-03.47.56:492][149]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.06.23-03.47.56:492][149]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.06.23-03.47.56:492][149]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.06.23-03.47.56:492][149]MaterialEditorStats: Texture samplers: 2/16
+[2021.06.23-03.48.00:144][386]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.48.00:153][386]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.48.00:168][387]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.06.23-03.48.00:168][387]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.06.23-03.48.00:168][387]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.06.23-03.48.01:063][444]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.06.23-03.48.01:400][466]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.06.23-03.48.01:463][470]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.06.23-03.48.02:287][518]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.06.23-03.48.02:344][524]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.06.23-03.48.02:756][549]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.48.02:772][550]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.06.23-03.48.03:916][593]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.06.23-03.48.03:959][594]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.06.23-03.48.04:667][638]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.06.23-03.48.04:828][648]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2021.06.23-03.48.05:278][678]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.06.23-03.48.06:070][729]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.06.23-03.48.06:265][742]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.06.23-03.48.06:394][751]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.06.23-03.48.07:509][823]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.06.23-03.48.07:510][823]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.06.23-03.48.07:510][823]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.06.23-03.48.07:510][823]MaterialEditorStats: Texture samplers: 2/16
+[2021.06.23-03.48.13:941][233]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.48.13:947][233]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.06.23-03.48.13:947][233]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.06.23-03.48.13:947][233]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.06.23-03.48.13:947][233]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.06.23-03.48.14:858][291]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.06.23-03.48.15:237][315]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.06.23-03.48.15:375][324]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.06.23-03.48.16:150][370]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.06.23-03.48.16:350][383]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.06.23-03.48.16:862][415]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.06.23-03.48.17:964][484]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.06.23-03.48.17:964][484]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.06.23-03.48.17:964][484]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.06.23-03.48.17:964][484]MaterialEditorStats: Texture samplers: 2/16
+[2021.06.23-03.48.23:161][842]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.48.23:162][842]LogMaterial: Warning: [AssetLog] /Engine/Transient.Grass (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.23-03.48.23:162][842]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.23-03.48.23:165][842]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.06.23-03.48.23:168][842]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2021.06.23-03.48.43:819][210]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.48.43:829][210]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.06.23-03.48.43:829][210]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.06.23-03.48.43:829][210]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.06.23-03.48.43:829][210]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.06.23-03.48.43:836][210]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.48.44:976][287]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2021.06.23-03.48.45:802][340]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.06.23-03.48.45:820][341]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.06.23-03.48.45:963][351]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2021.06.23-03.48.46:561][389]LogMaterialEditor: Saving and Compiling material Grass
+[2021.06.23-03.48.47:114][389]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.06.23-03.48.47:114][389]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2021.06.23-03.48.47:114][389]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.06.23-03.48.47:123][389]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.48.47:165][389]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.48.47:188][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.06.23-03.48.47:197][389]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.23-03.48.47:753][389]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2021.06.23-03.48.47:753][389]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2021.06.23-03.48.47:753][389]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.06.23-03.48.48:309][389]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.06.23-03.48.48:309][389]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2021.06.23-03.48.48:309][389]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.06.23-03.48.48:862][389]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.06.23-03.48.48:862][389]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.06.23-03.48.48:862][389]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2021.06.23-03.48.48:862][389]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 14
+[2021.06.23-03.48.49:156][389]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.06.23-03.48.49:156][389]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.06.23-03.48.49:156][389]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 7
+[2021.06.23-03.48.49:156][389]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.06.23-03.48.49:163][389]TextureStreamingBuild: Display: Compiling optional shaders took 1.970 seconds.
+[2021.06.23-03.48.49:171][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.06.23-03.48.50:310][389]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.06.23-03.48.50:863][389]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.06.23-03.48.51:095][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Levels/Grass" FILE="../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Grass.uasset" SILENT=true
+[2021.06.23-03.48.51:101][389]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Grass9F7558FF4693B771163665BEE79C883E.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Grass.uasset'
+[2021.06.23-03.48.51:123][389]AssetCheck: New page: Asset Save: Grass
+[2021.06.23-03.48.51:123][389]LogContentValidation: Display: Validating Material /Game/StarterContent/Levels/Grass.Grass
+[2021.06.23-03.48.51:124][389]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.06.23-03.48.51:124][389]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.06.23-03.48.51:124][389]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.06.23-03.48.51:124][389]MaterialEditorStats: Texture samplers: 4/16
+[2021.06.23-03.48.51:125][389]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.06.23-03.48.51:125][389]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.06.23-03.48.53:480][546]LogMaterialEditor: Saving and Compiling material Grass
+[2021.06.23-03.48.53:532][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Levels/Grass" FILE="../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Grass.uasset" SILENT=true
+[2021.06.23-03.48.53:537][546]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/GrassBA51EECB4D8F45F6847EE7AFC68998B3.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Grass.uasset'
+[2021.06.23-03.48.53:552][546]AssetCheck: New page: Asset Save: Grass
+[2021.06.23-03.48.53:553][546]LogContentValidation: Display: Validating Material /Game/StarterContent/Levels/Grass.Grass
+[2021.06.23-03.48.53:845][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.06.23-03.48.53:944][565]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Level01F93C38D0493E8BA73B8CA6B998869BA4.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Level01.umap'
+[2021.06.23-03.48.53:956][565]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/Level01_BuiltData090C47C941920906C6B1979FDAFDB283.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Level01_BuiltData.uasset'
+[2021.06.23-03.48.53:964][565]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.23-03.48.53:964][565]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Levels/Level01_BuiltData.Level01_BuiltData
+[2021.06.23-03.48.53:964][565]LogContentValidation: Display: Validating World /Game/StarterContent/Levels/Level01.Level01
+[2021.06.23-03.49.02:750][975]LogSlate: Window 'Grass' being destroyed
+[2021.06.23-03.49.02:764][975]LogSlate: Window 'Grass' being destroyed
+[2021.06.23-03.49.02:780][975]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.06.23-03.49.02:780][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.23-03.49.07:877][483]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2021.06.23-03.49.15:772][ 24]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.49.15:805][ 24]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2021.06.23-03.49.15:805][ 24]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.06.23-03.49.15:805][ 24]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2021.06.23-03.49.17:244][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Levels/Grass" FILE="../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Grass.uasset" SILENT=true
+[2021.06.23-03.49.17:246][126]LogSavePackage: Moving '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Saved/GrassD9F352E94D6EF9F8CD5C0D9034E86D38.tmp' to '../../../../../../Users/maxmo/OneDrive/Desktop/Unreal Projects/beachDefense/Content/StarterContent/Levels/Grass.uasset'
+[2021.06.23-03.49.17:254][126]AssetCheck: New page: Asset Save: Grass
+[2021.06.23-03.49.17:254][126]LogContentValidation: Display: Validating Material /Game/StarterContent/Levels/Grass.Grass
+[2021.06.23-03.49.18:394][222]MapCheck: New page: Map Check
+[2021.06.23-03.49.18:417][222]Cmd: MAP REBUILD ALLVISIBLE
+[2021.06.23-03.49.18:417][222]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.06.23-03.49.18:494][222]LogWorld: UWorld::CleanupWorld for Level01, bSessionEnded=true, bCleanupResources=false
+[2021.06.23-03.49.18:518][222]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.06.23-03.49.18:518][222]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.06.23-03.49.18:518][222]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.06.23-03.49.18:527][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.06.23-03.49.20:511][222]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.23-03.49.20:513][222]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.23-03.49.20:514][222]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.23-03.49.20:515][222]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.23-03.49.20:518][222]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.23-03.49.20:534][222]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.06.23-03.49.20:534][222]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.06.23-03.49.20:534][222]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.06.23-03.49.20:534][222]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.23-03.49.20:549][222]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.06.23-03.49.23:045][222]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.06.23-03.49.23:045][222]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.06.23-03.49.23:045][222]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.06.23-03.49.23:045][222]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.06.23-03.49.23:045][222]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.06.23-03.49.23:045][222]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.06.23-03.49.23:045][222]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.06.23-03.49.23:045][222]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.06.23-03.49.23:045][222]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.06.23-03.49.23:045][222]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.06.23-03.49.23:045][222]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.06.23-03.49.23:045][222]TextureStreamingBuild: Display: Compiling optional shaders took 2.554 seconds.
+[2021.06.23-03.49.23:061][222]LogLevel: Display: Export Material TexCoord Scales took 0.015 seconds.
+[2021.06.23-03.49.23:062][222]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2021.06.23-03.49.23:067][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.06.23-03.49.23:069][222]LightingResults: New page: Lighting Build - Jun 22, 2021, 1:49:23 PM
+[2021.06.23-03.49.23:087][222]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.06.23-03.49.23:089][222]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.06.23-03.49.23:089][222]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.06.23-03.49.23:090][222]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.06.23-03.49.23:090][222]LogSwarmInterface: [TryOpenConnection] Local Process ID is 6668
+[2021.06.23-03.49.27:656][222]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2021.06.23-03.49.27:657][222]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.06.23-03.49.27:657][222]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.06.23-03.49.27:657][222]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.06.23-03.49.27:657][222]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.06.23-03.49.27:657][222]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.06.23-03.49.27:735][222]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.06.23-03.49.27:736][222]MapCheck: New page: Level01 - Jun 22, 2021, 1:49:27 PM
+[2021.06.23-03.49.27:736][222]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.354ms to complete.
+[2021.06.23-03.49.27:738][222]LogEditorBuildUtils: Build time 0:09
+[2021.06.23-03.49.27:769][222]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_67, compiling. 
+[2021.06.23-03.49.27:772][222]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.06.23-03.49.27:772][222]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.06.23-03.49.27:772][222]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_67, compiling. 
+[2021.06.23-03.49.27:778][222]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.06.23-03.49.28:392][223]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.06.23-03.49.30:251][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.06.23-03.49.46:663][519]Job is a success!
+[2021.06.23-03.49.47:155][520]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.094s
+[2021.06.23-03.49.47:155][520]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2021.06.23-03.49.47:155][520]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb (trimmed 3.3Mb due to 0.010000 MinBrickError)
+[2021.06.23-03.49.47:155][520]LogVolumetricLightmapImport:      Bricks at depth
+[2021.06.23-03.49.47:155][520]LogVolumetricLightmapImport:          0: 11.4% covering 100.0% of volume
+[2021.06.23-03.49.47:155][520]LogVolumetricLightmapImport:          1: 88.6% covering 12.1% of volume
+[2021.06.23-03.49.47:155][520]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2021.06.23-03.49.47:155][520]LogVolumetricLightmapImport:      Bricks in each level
+[2021.06.23-03.49.47:155][520]LogVolumetricLightmapImport:          Level01 			 70 bricks 	 100.0% (Persistent Level)
+[2021.06.23-03.49.47:235][520]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2021.06.23-03.49.47:236][520]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2021.06.23-03.49.47:236][520]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2021.06.23-03.49.47:236][520]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2021.06.23-03.49.47:257][520]Lightmass on DESKTOP-G5CMT6A: 16.4 sec total, 389 ms importing, 294 ms setup, 4.03 sec photons, 11.6 sec processing, 0 ms extra exporting [66/66 mappings]. Threads: 46.7 sec total, 10.0 sec processing.
+[2021.06.23-03.49.47:259][520]LogStaticLightingSystem: Level01_BuiltData storing lightmap data for 66 meshes in 3 LightmapResourceClusters (22.0 Meshes per cluster).
+[2021.06.23-03.49.47:278][520]LogMaterial: Display: Material /Game/StarterContent/Levels/Grass.Grass needed to have new flag set bUsedWithStaticLighting !
+[2021.06.23-03.49.47:282][520]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.49.47:314][520]LogMaterial: Display: Missing cached shader map for material Grass, compiling. 
+[2021.06.23-03.49.52:881][520]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.06.23-03.49.52:882][520]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.06.23-03.49.52:882][520]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2021.06.23-03.49.52:882][520]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 46
+[2021.06.23-03.49.52:882][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.06.23-03.49.52:944][520]LogStaticLightingSystem: Illumination: 29.4 sec (10 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2021.06.23-03.49.52:944][520]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.06.23-03.49.52:944][520]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2021.06.23-03.49.53:712][520]DumpUnbuiltLightIteractions
+[2021.06.23-03.49.53:712][520]Lights with unbuilt interactions: 0
+[2021.06.23-03.49.53:712][520]
+[2021.06.23-03.49.53:712][520]Primitives with unbuilt interactions: 0
+[2021.06.23-03.49.58:763][520]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2021.06.23-03.49.58:763][520]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2021.06.23-03.49.58:763][520]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2021.06.23-03.49.58:763][520]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.06.23-03.49.58:763][520]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.06.23-03.49.58:763][520]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2021.06.23-03.49.58:763][520]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.06.23-03.49.58:763][520]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.06.23-03.49.58:796][521]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.06.23-03.49.58:796][521]MapCheck: New page: Level01 - Jun 22, 2021, 1:49:58 PM
+[2021.06.23-03.49.58:797][521]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.422ms to complete.
+[2021.06.23-03.51.10:295][734]LogSlate: Window 'Message Log' being destroyed
+[2021.06.23-03.51.10:298][734]LogSlate: Window 'Message Log' being destroyed
